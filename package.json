@@ -1,0 +1,9 @@
+{
+  "name": "inventory-react-local",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {"dev": "vite", "build": "vite build", "preview": "vite preview"},
+  "dependencies": {"@vitejs/plugin-react": "latest", "vite": "latest", "react": "latest", "react-dom": "latest", "xlsx": "^0.18.5", "@supabase/supabase-js": "^2.57.0"},
+  "devDependencies": {}
+}
