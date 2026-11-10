@@ -6,3 +6,8 @@
 input[readonly] { background: #f1f5f9; color: #0f172a; font-weight: 700; }
 
 .transaction-search{display:flex;align-items:center;gap:9px;border:1px solid #e0e6ef;border-radius:7px;padding:0 12px;background:#fff;color:#8995a5}.transaction-search:focus-within{border-color:#7ca4f9;box-shadow:0 0 0 3px #2e6de911}.transaction-search span{font-size:20px}.transaction-search input{border:0!important;outline:0!important;box-shadow:none!important;padding:11px 0!important;background:transparent!important}
+
+.balance-positive{color:#168653}.balance-negative{color:#dc4b4b}
+
+/* Bang thong ke phat thua/thieu va lich su theo ma hang */
+.code-link{border:0;background:transparent;padding:0;color:#2868ed;font-size:10px;font-weight:800;text-decoration:underline;text-underline-offset:3px;cursor:pointer}.code-link:hover{color:#174bb4}.issue-summary-stats{margin-top:0}.issue-history-summary{display:flex;flex-direction:column;gap:8px;padding:18px 24px 12px;font-size:11px;color:#475569}.issue-history-summary span{font-size:10px}.issue-history-table{max-height:55vh}.issue-history-table table{min-width:760px}.issue-history-actions{padding:0 24px 22px}
